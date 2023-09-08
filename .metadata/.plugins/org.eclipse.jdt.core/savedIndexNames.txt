@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\TUF DASH\Downloads\Tech\Java\Prework Assignment\.metadata\.plugins\org.eclipse.jdt.core
+1696264553.index
+558641980.index
+1865797976.index

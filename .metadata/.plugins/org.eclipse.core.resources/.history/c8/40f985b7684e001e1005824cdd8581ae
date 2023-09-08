@@ -1,0 +1,11 @@
+package om.pre;
+
+import java.util.List;
+
+public class Finacci {
+
+	public static void main(String[] args) {
+		System.out.println();
+	}
+
+}
